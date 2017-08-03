@@ -654,6 +654,16 @@ body{
 	.list-search{
 		background-color: #24252f;
 	}
+	.list-search.active{
+		background-color: #24252f;
+	}
+	.infinite-list-item.infinite-list-item-transition .section-header{
+		background-color: #1d1e2c;
+	}
+	.dropdown-item.menu-shortcut.dropdown-item-hover{
+		background-color: #1d1e2c;
+	}
+	
 .pane-header.pane-list-header{
 		background-color: #14151f;
 	}
@@ -664,6 +674,9 @@ body{
 		background-color: #24252f;
 	}
 	.sticky-date-marker-floating-wrapper.message-system{
+		background-color: #24252f;
+	}
+	.animate-enter2.drawer-section.well{
 		background-color: #24252f;
 	}
 .drawer-section.well-simple-body{
